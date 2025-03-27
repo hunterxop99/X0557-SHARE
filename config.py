@@ -98,93 +98,97 @@ SUPPORTED_MIME_TYPES = [
 
 class Messages:
     START_TEXT = """
-🎉 **Welcome to {bot_name}!** 🎉
+**🔥 Welcome to {bot_name}! 🔥**
 
-Hello {user_mention}! I'm your secure file sharing assistant.
+Hey {user_mention}, you've entered the world of HUNTERX NETWORK! 🚀
 
-🔐 **Key Features:**
-• Secure File Sharing
-• Unique Download Links
-• Multiple File Types Support
-• Real-time Tracking
-• Force Subscribe
+**⚡ Power. Speed. Precision.
 
-    📢 Join @SOON for updates!
-👨‍💻 Contact @WizardBillu for support
+🔹 Seamless File Sharing
+🔹 Exclusive Access
+🔹 Built for the Elite
 
-Use /help to see available commands!
+🎯 Stay Ahead – Join the Community:
+📢 @HUNTERX_NETWORK
+
+💬 Need Support? Contact @WizardBillu**
+
+⚔ Type /help to begin your journey!
 """
 
     HELP_TEXT = """
-📚 **Available Commands**  
+📚 COMMAND PANEL
 
-👤 **User Commands:**  
-• `/start` - Start the bot  
-• `/help` - Show this menu  
-• `/about` - Bot details  
-• `/short [url]` - Shorten a link (e.g., `/short example.com`)  
+👤 User Commands:
+🚀 `/start` – Activate the bot
+ℹ️ `/help` – Display this menu
+🔍 `/about` – Learn about the bot
+✂️ `/short` [url] – Shorten links (e.g., /short example.com)
 
-👑 **Admin Commands:**  
-• `/upload` - Upload a file (reply to a file)  
-• `/stats` - View bot statistics  
-• `/broadcast` - Send a message to all users  
-• `/auto_del` - Set auto-delete timer  
+👑 Admin Commands:
+📤 `/upload` – Upload files (reply to a file)
+📊 `/stats` – View bot performance
+📢 `/broadcast` – Message all users
+⏳ `/auto_del` – Set auto-delete timer
 
-🗑 **Auto-Delete System:**  
-• Files auto-delete after a set time.  
-• Modify timer using `/auto_del`.  
+🗑 Auto-Delete System:
+⚡ Files auto-delete after the set time.
+⚙️ Adjust with `/auto_del`.
 
-🔗 **Batch System:**  
-• `/batch` - Group multiple files into one link.  
-• Forward files & reply with `/batch`.   
+🔗 Batch System:
+📦 `/batch` – Combine multiple files into one link.
+📩 Forward files & reply with `/batch`.
 
-⚠️ **Need Help?** Contact [@https://WizardBillu](https://t.me/WizardBillu)  
+💬 Need Assistance? Contact @WizardBillu
 """
 
     ABOUT_TEXT = """
-ℹ️ **About {bot_name}**
+**ℹ️ About {bot_name}**
 
-**Version:** `{version}`
-**Developer:** @adarsh2626
-**Language:** Python
-**Framework:** Pyrogram
+🔹 Version: {version}
+🔹 Developer: WizardBillu
+🔹 Language: Python 🐍
+🔹 Framework: Pyrogram ⚡
 
-📢 **Updates:** @Thealphabotz
-🛠 **Support:** @adarsh2626
+**🚀 What Makes {bot_name} Powerful?**
+✅ Seamless File Sharing
+✅ Force Subscription System
+✅ Advanced Admin Controls
+✅ Real-Time Analytics
+✅ Multi-Format Support
+✅ Enhanced Security & Speed
+✅ Smart File Type Detection
 
-**Features:**
-• Secure File Sharing
-• Force Subscribe
-• Admin Controls
-• Real-time Stats
-• Multiple File Types
-• Enhanced Security
-• Automatic File Type Detection
+📢 Stay Updated: @X0557
+🛠 Support & Queries: @WizardBillu
 
-Made with ❤️ by @WizardBillu
+**🔥 Crafted with Passion by @WizardBillu ❤️**
 """
 
     FILE_TEXT = """
-📁 **File Details**
+**📁 FILE INFORMATION**
 
-**Name:** `{file_name}`
-**Size:** {file_size}
-**Type:** {file_type}
-**Downloads:** {downloads}
-**Uploaded:** {upload_time}
-**By:** {uploader}
+🔹 Name: {file_name}
+📦 Size: {file_size}
+📂 Type: {file_type}
+📥 Downloads: {downloads}
+🕒 Uploaded: {upload_time}
+👤 By: {uploader}
 
-🔗 **Share Link:**
-`{share_link}`
+🔗 Share Link:
+{share_link}
+
+**🚀 Fast | Secure | Reliable**
 """
 
     FORCE_SUB_TEXT = """
-⚠️ **Access Restricted!**
+**⚠️ Access Denied! ⚠️**
 
-Please join our channel to use this bot:
-Bot By @Thealphabotz
+🔒 To use this bot, you must join our official channel.
 
-Click button below, then try again!
+🚀 Join Now: @X0557
+
+🔹 Click the button below and try again!
 """
 
 class Buttons:
