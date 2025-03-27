@@ -109,9 +109,8 @@ Hello {user_mention}! I'm your secure file sharing assistant.
 • Real-time Tracking
 • Force Subscribe
 
-📢 Join @Thealphabotz for updates!
-👨‍💻 Contact @adarsh2626 for support
-A Open Source Repo :- github.com/utkarshdubey2008/alphashare
+    📢 Join @SOON for updates!
+👨‍💻 Contact @WizardBillu for support
 
 Use /help to see available commands!
 """
@@ -137,12 +136,9 @@ Use /help to see available commands!
 
 🔗 **Batch System:**  
 • `/batch` - Group multiple files into one link.  
-• Forward files & reply with `/batch`.  
+• Forward files & reply with `/batch`.   
 
-🛠 **Open Source:**  
-🔗 [GitHub](https://github.com/utkarshdubey2008/alphashare)  
-
-⚠️ **Need Help?** Contact [@adarsh2626](https://t.me/adarsh2626)  
+⚠️ **Need Help?** Contact [@https://WizardBillu](https://t.me/WizardBillu)  
 """
 
     ABOUT_TEXT = """
@@ -165,7 +161,7 @@ Use /help to see available commands!
 • Enhanced Security
 • Automatic File Type Detection
 
-Made with ❤️ by @adarsh2626
+Made with ❤️ by @WizardBillu
 """
 
     FILE_TEXT = """
